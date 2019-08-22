@@ -1,0 +1,12 @@
+git init
+git add .
+git commit -m 'mensaje del commit'
+git push
+
+git branch --> show all the branches
+git branch branchName --> create branch 
+git checkout branchName --> switch to branchName
+
+git checkout -b branchName --> create and change branch
+
+git pull --> actualiza proyectogit fe
